@@ -1,0 +1,150 @@
+html, body {
+	margin: 0;
+	font-family: georgia;
+}
+
+.everything {
+	width: 960px;
+}
+
+.top {
+	background-color: burlywood;
+}
+
+.heading {
+	display: block;
+	width: 960px;
+	margin: 0 auto;
+	color: white;
+}
+
+h1 {
+	display: inline-block;
+}
+
+h2 {
+	margin: 0;
+}
+
+.black-heading {
+	color: black;
+	font-size: 20px;
+}
+
+.links {
+	font-size: 10pt;
+	display: block;
+	position: absolute;
+	right: 0px;
+	top: 0px;
+}
+
+.bottom-half {
+	background-color: aliceblue;
+}
+
+.middle {
+	display: block;
+	width: 996px;
+	height: 1150px;
+	margin: 0 auto;
+}
+
+.menu {
+	display: inline-block;
+	margin-right: 10px;
+	line-height: 79px;
+}
+
+.column {
+	float: left;
+	display: inline-block;
+	width: 296px;
+	padding-right: 18px;
+	padding-left: 18px;
+	padding-top: 40px;
+}
+
+.image {
+	height: 220px;
+	padding-right: 18px;
+	padding-left: 18px;
+	padding-top: 10px;
+}
+
+.caption {
+	padding-top: 10px;
+}
+
+.subheading {
+	padding-top: 40px;
+	width: 628px;
+	font-size: 15px;
+}
+
+.big-image {
+	padding-left: 18px;
+	padding-top: 20px;
+	height: 380px;
+	width: 628px;
+}
+
+.sidebar {
+	padding-top: 40px;
+	padding-left: 0px;
+	padding-right: 18px;
+	float: right;
+	width: 296px;
+	height: 500px;
+}
+
+.small-heading {
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 37px;
+}
+
+.small-image {
+	padding-left: 0px;
+	padding-right: 0px;
+	width: 90px;
+	float: left;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.more-headings {
+	font-size: 10px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 10px;
+	width: 200px;
+	float: right;
+}
+
+.small-subtitle {
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	width: 200px;
+	height: 77px;
+	float: right;
+}
+
+.larger-title {
+	font-size: 20px;
+	padding-top: 10px;
+	width: 628px;
+}
+
+.tiny-words {
+	padding-top: 10px;
+	width: 200px;
+}
+
+.long-caption {
+	padding-top: 30px;
+	width: 628px;
+}
+
